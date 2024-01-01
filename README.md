@@ -1,2 +1,5 @@
-# Healthcare_Attriction_Fairness
-A Comprehensive analysis of attriction rates behind healthcare workers and the potential ethical disputes.
+# Healthcare_Attriction_Fairness: A Comprehensive analysis of attriction rates behind healthcare workers and the potential ethical disputes.
+
+Nowadays, attrition of health care workers in the US health care system has become a major problem, especially since 2020 due to COVID-19 pandemic. “Although the industry has been resilient, the pandemic has further amplified and stressed the labor market and shortage.” (Colosi, 2022) Due to the nature of the profession, health care workers suffered from long worktime, high workload, and stress, which leads to an all-time high attrition rate. (Falatah, 2021) The factors that lead to healthcare employees’ attrition should be carefully examined, especially sensitive attributes, as past findings do show that age, gender, and ethnicity have an impact on attrition rates. (Pryjmachuk et al., 2009) Therefore, we want to seek for whether the attrition rates are related to unfair or discriminate treatment of workers based on their sensitive attributes, specifically gender. In order to do that, this report explores Watson healthcare dataset, a synthetic variation from the IBM Watson dataset that includes US health care employees’ attrition rates (resignation). 
+
+
